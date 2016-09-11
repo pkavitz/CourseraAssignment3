@@ -16,6 +16,6 @@ Two scripts are required to execute all steps necessary to prepare and clean the
 ### Scripts
 - **"download.R"** - retrieves raw data set from [here](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip) and uncompresses into the local file system.
 - **"run_analysis.R"** imports raw data set into R dataframes and performs a sequence of steps to transform the raw data into tidy data according to the specifications identified in the course assignment.
-    + **Refer to "CodeBook.md"" for a review of tranformations performed by this script.**
+    + **Refer to "CodeBook.md" for a review of tranformations performed by this script.**
 
 Have a fantastic day!
